@@ -37,9 +37,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greenes, groats-vvorth of witte, bought with a million of repentance Describing the follie of youth,
+
+1. The Printer to the Gentle Readers.
+
+1. To the Gentlemen Readers.
+
 #####Body#####
+IN an Iland bounded with the Ocean. there was somtime a Cittie situated, made riche by Marchandize, 
+1. Lamilias Fable.
+
+1. Robertoes Tale.
 AN Ant and a Grashopper walking together on a Greene, the one carelesly skipping, the other carefull
+1. A letter written to his wife, founde with this booke after his death.
+
 **Types of content**
 
   * There are 102 **verse** lines!
